@@ -36,4 +36,20 @@ class Database
         }
     }
 
+    /**
+     * @param $sql
+     */
+    static function query($sql){
+
+    }
+    static function queryOne(){
+
+    }
+    static function queryAll(){
+
+    }
+    static function queryLimit(){
+
+    }
+
 }
