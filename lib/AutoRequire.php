@@ -8,8 +8,6 @@
 
 namespace lib;
 
-use PHPMailer\PHPMailer\Exception;
-
 /**
  * Class AutoRequire
  * @package lib
@@ -21,7 +19,7 @@ class AutoRequire
         if(file_exists(BASEDIR.'\\..\\'.$class.'.php')){
             require BASEDIR.'\\..\\'.$class.'.php';
         }else{
-            throw new Exception('控制器不存在','10002');
+            throw new \Exception('控制器不存在','10002');
         }
 
     }

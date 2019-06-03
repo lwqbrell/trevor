@@ -6,7 +6,7 @@
  * Time: 22:38
  */
 
-namespace app\stratege\controller;
+namespace app\stratege;
 
 /**
  * Class Shopping

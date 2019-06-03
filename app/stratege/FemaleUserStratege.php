@@ -6,7 +6,7 @@
  * Time: 21:49
  */
 
-namespace app\stratege\controller;
+namespace app\stratege;
 
 /**
  * Class FemaleUserStratege

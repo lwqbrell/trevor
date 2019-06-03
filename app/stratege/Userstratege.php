@@ -6,7 +6,7 @@
  * Time: 21:47
  */
 
-namespace app\stratege\controller;
+namespace app\stratege;
 
 /**
  * Interface Userstratege

@@ -6,7 +6,7 @@
  * Time: 23:13
  */
 
-namespace app\stratege\controller;
+namespace app\stratege;
 
 /**
  * Class StudentUserStratege
